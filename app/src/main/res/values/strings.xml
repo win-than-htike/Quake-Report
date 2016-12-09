@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Quake Report</string>
     <string name="near_the">Near the</string>
+    <string name="no_earthquake">No Earthquake Found</string>
+    <string name="no_internet_connection">No Internet Connection.</string>
+    <string name="setting_menu_item">Setting</string>
+    <string name="setting_title">Earthquake Setting</string>
 </resources>
